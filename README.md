@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on BUPT
 - 🌱 I’m currently learning C LANGUAGE
-- 📫 How to reach me:liuchengyu378@gail.com
+- 📫 How to reach me:liuchengyu378@gmail.com
